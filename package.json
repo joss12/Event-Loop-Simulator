@@ -1,6 +1,6 @@
 {
     "name": "event-loop-simulator",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "A professional Node.js-only event loop simulator with microtasks, tasks, async/await, and real-time CLI dashboard.",
     "main": "index.js",
     "bin": {
