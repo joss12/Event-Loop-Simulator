@@ -29,3 +29,5 @@ A professional-grade, visual **JavaScript event loop simulator** — built in **
 ```bash
 npx event-loop-simulator nestedClassic
 
+npx evloop nestedClassic
+
