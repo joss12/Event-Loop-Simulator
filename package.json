@@ -4,7 +4,8 @@
     "description": "A professional Node.js-only event loop simulator with microtasks, tasks, async/await, and real-time CLI dashboard.",
     "main": "index.js",
     "bin": {
-        "evloop": "./index.js"
+        "evloop": "./index.js",
+        "event-loop-simulator": "./index.js"
     },
     "keywords": [
         "javascript",
