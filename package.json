@@ -1,0 +1,20 @@
+{
+    "name": "event-loop-simulator",
+    "version": "1.0.0",
+    "description": "A professional Node.js-only event loop simulator with microtasks, tasks, async/await, and real-time CLI dashboard.",
+    "main": "index.js",
+    "bin": {
+        "evloop": "./index.js"
+    },
+    "keywords": [
+        "javascript",
+        "event-loop",
+        "nodejs",
+        "microtask",
+        "async-await",
+        "simulator",
+        "visualizer"
+    ],
+    "author": "Eddy Joss Axel Mouity",
+    "license": "MIT"
+}
