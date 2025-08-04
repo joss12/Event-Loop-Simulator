@@ -1,4 +1,4 @@
-# 🧠 Event Loop Simulator (Node.js CLI)
+# Event Loop Simulator
 
 A professional-grade, visual **JavaScript event loop simulator** — built in **pure Node.js**, with **zero dependencies**, **no DOM**, and **full CLI control**.
 
